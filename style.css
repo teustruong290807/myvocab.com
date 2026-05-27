@@ -1,0 +1,5 @@
+body { font-family: sans-serif; background: #F4F6F8; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
+#app { background: white; padding: 30px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); width: 300px; text-align: center; }
+input { width: 100%; padding: 10px; margin-bottom: 10px; border-radius: 6px; border: 1px solid #ccc; box-sizing: border-box; }
+button { width: 100%; padding: 10px; margin-bottom: 10px; border-radius: 6px; border: none; background: #4F46E5; color: white; font-weight: bold; cursor: pointer; }
+.hidden { display: none !important; }
